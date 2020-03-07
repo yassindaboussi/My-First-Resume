@@ -5,7 +5,7 @@ CV or Résumé or Cover Letter
 
 ### Screenshot
 
-![template preview](https://i.ibb.co/DKsKL4S/wwwwwwwwwwwwwwwwwwwwwwwww.png)
+![template preview](https://i.imgur.com/7pp26Ow.png)
 
 
 #### V 1.0
