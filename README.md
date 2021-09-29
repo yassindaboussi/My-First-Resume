@@ -1,6 +1,3 @@
-# Customize your own CV !
-CV or Résumé or Cover Letter
-
 # Preview
 
 ### Screenshot
